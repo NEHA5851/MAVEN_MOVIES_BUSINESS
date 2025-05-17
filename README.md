@@ -18,7 +18,7 @@ The Maven Movies project is a comprehensive SQL-based data analysis initiative d
 
 - The dataset includes key business entities such as:
 
-*Customers: Personal details and demographics.
+* Customers: Personal details and demographics.
 
 *Films: Titles, genres, ratings, rental costs, and durations.
 
