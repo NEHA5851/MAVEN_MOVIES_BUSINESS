@@ -6,17 +6,17 @@
 
 The Maven Movies project is a comprehensive SQL-based data analysis initiative designed to simulate the operations of a movie rental company. Leveraging a relational database schema that models a real-world DVD rental business, this project aims to explore business performance, customer behavior, and operational efficiency through powerful SQL queries and data visualizations.
 
-.This project is ideal for anyone looking to:
+-This project is ideal for anyone looking to:
 
-.Practice and strengthen SQL skills.
+-Practice and strengthen SQL skills.
 
-.Understand database design and normalization.
+-Understand database design and normalization.
 
-.Gain insights from transactional data.
+-Gain insights from transactional data.
 
-.Simulate real-world business scenarios in the movie rental domain.
+-Simulate real-world business scenarios in the movie rental domain.
 
-.The dataset includes key business entities such as:
+-The dataset includes key business entities such as:
 
 *Customers: Personal details and demographics.
 
